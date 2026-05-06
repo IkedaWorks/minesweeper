@@ -33,6 +33,8 @@ On Windows:
 
 DOS
 minesweeper.exe
+
+
 On Linux/macOS:
 
 Bash
